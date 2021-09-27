@@ -1,0 +1,138 @@
+.forbody{
+position: relative;
+top: 14%;
+
+padding: auto;
+
+}
+
+.mention{
+background: rgb(236, 235, 234);
+width: 70%;
+margin: 30px;
+
+font-size: o.7em;
+}
+div{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+}
+#semen{
+    background-color: lawngreen;
+    width: inherit;
+}
+h3{
+    text-transform: capitalize;
+    color: steelblue;
+    font-size: 1.5em;
+    text-decoration: underline none;
+   
+}
+#img{
+    height: 100%;
+    background-image: url(D:/myturismweb/home/Simien-Mountains-Ethiopia-©Thomas-Maluck-CC-BY-ND-2.0.jpg);
+    width: inherit;
+    background-size: cover;
+
+}
+#img1{
+    height: 100%;
+    background-image: url(D:/myturismweb/home/St.-George-Church-in-Lalibela-Ethiopia-Rock-Churches.jpg);
+    width: inherit;
+    background-size: cover;
+
+}
+#img2{
+    height: 100%;
+    background-image: url(D:/myturismweb/home/Gondar-Ethiopia-CC0.jpg);
+    width: inherit;
+    background-size: cover;
+}
+#img3{
+    height: 100%;
+    background-image: url(D:/myturismweb/hotel/addisababa.jpg);
+    width: inherit;
+    background-size: cover;
+}
+#img4{
+    height: 100%;
+    background-image: url(D:/myturismweb/home/Blue-Nile-Falls-Ethiopia.jpg);
+    width: inherit;
+    background-size: cover;
+}
+#img5{
+    height: 100%;
+    background-image: url(D:/myturismweb/images/download.jpg);
+    width: inherit;
+    background-size: cover;
+}
+#img6{
+    height: 100%;
+    background-image: url(D:/myturismweb/home/harar-ethiopia-july-262014-gate-260nw-208874200.jpg);
+    width: inherit;
+    background-size: cover;
+}
+#img7{
+    height: 100%;
+    background-image: url(D:/myturismweb/images/SharedScreenshot.jpg);
+    width: inherit;
+    background-size: cover;
+}
+#img8{
+    height: 100%;
+    background-image: url(D:/myturismweb/hotel/people.jpg);
+    width: inherit;
+    background-position: center;
+    background-size: cover;
+}
+
+nav li{
+display: inline;
+margin-right: 40px;
+
+}
+
+header{
+
+    width: 100%;
+    position: fixed;
+    top: 0%;
+    text-align: center;
+    border: black;
+  background-image: url("D:/myturismweb/images/hawassa.jpg");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+nav{
+    background-color:rgb(126, 126, 128);
+    
+}
+nav li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 1.5em;
+    text-underline-position: none;
+    color: rgb(247, 245, 245);
+}
+nav li a:hover, nav li a.current{
+color: rgb(3, 3, 3);
+
+}
+#imm{
+width: 56vw;
+    
+}
+h4{
+    border-radius: 5px;
+    float: right;
+    position: fixed;
+    left: 80%;
+    top: 4%;
+    background-color: rgb(146, 151, 151);
+}
+a {
+    
+    text-underline-offset: none;
+}
